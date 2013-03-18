@@ -1,0 +1,28 @@
+{
+    "version": "0.1",
+    "name": "Safari Park Indonesia Puzzle",
+    "description": "Safari Park Indonesia Puzzle is a game puzzle about Safari Park in Indonesia Country",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/icons/16.png",
+        "48": "/img/icons/48.png",
+        "128": "/img/icons/128.png"
+    },
+    "developer": {
+        "name": "Agung Firdausi Ahsan",
+        "url": "https://www.facebook.com/Agung.Firdausi.Ahsan"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "id": {
+            "description": "AGuNk Blog",
+            "developer": {
+                "url": "http://agvnk.blogspot.com/"
+            }
+  	}
+   },
+    "default_locale": "en",
+    "permissions": {
+        "systemXHR": {}
+    }
+}
